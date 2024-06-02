@@ -31,7 +31,7 @@ $(function () {
 })
 /* ************************************************************************************************************** */
 var authorInfo = {
-    name : 'Aashir Khan',
+    name : 'Isaac Morris',
     skills : ['Communication', 'Organization', 'Learning', 'Planning', 'HTML', 'CSS', 'JavaScript', 'Java'],
     aboutAuthor : "<strong>Lorem ipsum dolor sit amet, consectetur</strong> adipisicing elit. Debitis minus"+ 
                     "consequuntur repudiandae temporibus obcaecati odit ratione, cumque error, illo delectus" + 

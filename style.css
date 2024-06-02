@@ -205,7 +205,8 @@ div.face-image{
 
 }
 .face-image>img{
-    width: 200px;
+    width: 120px;
+    height: 140px;
     border-radius: 50%;
 
 }
