@@ -32,12 +32,10 @@ $(function () {
 /* ************************************************************************************************************** */
 var authorInfo = {
     name : 'Isaac Morris',
-    skills : ['Communication', 'Organization', 'Learning', 'Planning', 'HTML', 'CSS', 'JavaScript', 'Java'],
-    aboutAuthor : "<strong>Lorem ipsum dolor sit amet, consectetur</strong> adipisicing elit. Debitis minus"+ 
-                    "consequuntur repudiandae temporibus obcaecati odit ratione, cumque error, illo delectus" + 
-                    "iusto pariatur atque eveniet, repreh enderit tempore vero! Aliquam ipsam, possimus.enderit" + 
-                    "tempore vero! Aliquam ipsam, possimus. Lorem ipsum dolor sit amet, consectetur adipisicing" +
-                    "elit. Debitis minus consequuntur repudiandae temporibus obcaecati odit ratione,cumque error, illo delectus iusto pariatur atque eveniet"
+    skills : ['Communication', 'Learning', 'JavaScript/TypeScript', 'HTML/CSS', 'Python', 'Angular', 'React', 'SQL', 'Ruby on Rails', 'Cypress'],
+    aboutAuthor : "<strong>I love the feeling of creating something</strong> and seeing that something come to life. " +
+    "From composing my own music to landscape photography, from creating my own mobile app to writing " +
+    "short stories, I love the creative process."
 };
     // console.log(document.getElementsByClassName('skill'));
 
